@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/kaldi-asr/kaldi.svg?branch=master)](https://travis-ci.org/kaldi-asr/kaldi)
-
+端到端的TTS深度学习模型tacotron(中文语音合成)
 Kaldi Speech Recognition Toolkit
 ================================
 
